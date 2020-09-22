@@ -1,5 +1,5 @@
 # discordVoIP
-
+[![https://img.shields.io/github/issues/Pitu7944/discordVoIP?style=for-the-badge]()]
 discordVoIP is a **FiveM** script for using discord as voice in radios, phones and more.
 It provides a simple api for adding job restricted channels, and more. 
 Click the **wiki** button for documentation <3
