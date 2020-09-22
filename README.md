@@ -5,8 +5,6 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/Pitu7944/discordVoIP?style=for-the-badge)](https://github.com/Pitu7944/discordVoIP/issues)
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-
 
 **discordVoIP** is a **FiveM** script for using discord as voice in radios, phones and more.
 It provides a simple api for adding job restricted channels, and more. 
@@ -41,4 +39,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
