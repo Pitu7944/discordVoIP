@@ -25,8 +25,7 @@ python3.8 -m venv env
 *FiveM Part*
 ```
 Move the discordVoIP folder to your fivem resources folder
-add 
-start discordVoIP to your server cfg and configure values in server.lua!
+add start discordVoIP to your server cfg and configure values in server.lua!
 ```
 
 ## Usage
