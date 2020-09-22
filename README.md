@@ -11,7 +11,7 @@ It provides a simple api for adding job restricted channels, and more.
 Click the **wiki** button for documentation <3
 
 ## Installation
-
+*Python Part*
 ```bash
 sudo apt update
 sudo apt install software-properties-common
@@ -21,6 +21,12 @@ mkdir ~/discordVoIP_Server
 cd ~/discordVoIP_Server
 git clone "https://github.com/Pitu7944/discordVoIP.git" ./
 python3.8 -m venv env
+```
+*FiveM Part*
+```
+Move the discordVoIP folder to your fivem resources folder
+add 
+start discordVoIP to your server cfg and configure values in server.lua!
 ```
 
 ## Usage
