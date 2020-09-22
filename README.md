@@ -1,6 +1,11 @@
 # discordVoIP
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
 [![GitHub issues](https://img.shields.io/github/issues/Pitu7944/discordVoIP?style=for-the-badge)](https://github.com/Pitu7944/discordVoIP/issues)
-discordVoIP is a **FiveM** script for using discord as voice in radios, phones and more.
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
+
+**discordVoIP** is a **FiveM** script for using discord as voice in radios, phones and more.
 It provides a simple api for adding job restricted channels, and more. 
 Click the **wiki** button for documentation <3
 
